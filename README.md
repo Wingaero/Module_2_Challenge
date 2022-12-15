@@ -14,7 +14,7 @@ There is a detailed statement on the advantages and disadvantages of refactoring
 There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
 
 ## Purpose
-####    The purpose of this challenge is to refactor, or 'edit', code written previously to increase  scalability, i. e. to be able to analyze the data of thousands of stocks rather than a dozen stocks.
+####    The purpose of this challenge is to refactor, or 'edit', old code  to increase  scalability, i. e. to be able to analyze the data of thousands of stocks rather than a dozen stocks.
 
 ## Background
 ####    Steve, the client, hired me to write a script that could analyze and visualize the stock data that he had collected.  I wrote a simple script to analyze the given stocks, however later on in the development of the project, Steve asked that I make the script to accept the data of thousands of stocks rather than the few that were provided initially.  To meet the requirements of the client, I refactored the script.
@@ -23,4 +23,4 @@ There is a detailed statement on the advantages and disadvantages of the origina
 ####    
 
 ## Summary
-####    
+####    The advantage of refactoring code in general is that it decreases server-load for data, and increases computation speed for the end user so that even very demanding applications can run on hardware that is less load-bearing.  Although it costs the company more money to hire more employees, pay existing employees a higher salary, and/or hire more experienced workers, the benefits of what refactoring does for the product far outweigh those costs.
