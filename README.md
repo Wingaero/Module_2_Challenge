@@ -8,7 +8,7 @@
 
 ## Results
 ####    To begin the refactoring, I created an index (tickerIndex) to hold the index of the array I was working with held in the following for loops.
-![tickerIndex set with for loops](Resources/VBA_Challenge_indexSet)
+![tickerIndex set with for loops](Resources/VBA_Challenge_indexSet.png)
 
 ####    To calculate the volume of the curreent ticket first I set the tickerVolumes to zero.  Within the for loops exists a scaling 'tickerVolumes' variable that holds the sum of the volume of the current indexed ticker as it reaches the total.
 ![Calculating volume](Resources/VBA_Challenge_volumeScale.png)
