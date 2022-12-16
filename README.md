@@ -21,7 +21,7 @@ There is a detailed statement on the advantages and disadvantages of the origina
 
 ## Results
 ####    To begin the refactoring, I created an index (tickerIndex) to hold the index of the array I was working with held in the following for loops.
-![alt text](https://github.com/Wingaero/Module_2_Challenge/Resources/VBA_Challenge_2017.png?raw=true)
+![Time to Run 2017](Resources/VBA_Challenge_2017)
 
 ####    To calculate the volume of the curreent ticket first I set the tickerVolumes to zero.  Within the for loops exists a scaling 'tickerVolumes' variable that holds the sum of the volume of the current indexed ticker as it reaches the total.
 (example)
